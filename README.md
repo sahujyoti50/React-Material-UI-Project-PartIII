@@ -1,3 +1,15 @@
+Covered Key Fearures:
+
+1. TextField(label.variant,size,color,required,error.helperText,disabled,InputProps,readOnly,)
+2. InputAdornment(position:Start,End)
+3. useState with MUI Text
+
+Layout:
+
+![image](https://user-images.githubusercontent.com/15225177/190359703-ee2b2609-fb90-45d1-ab0b-1c54af84831c.png)
+
+************************************************************************************************************
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
