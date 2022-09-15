@@ -6,9 +6,7 @@ Covered Key Fearures:
 
 Layout:
 
-![image](https://user-images.githubusercontent.com/15225177/190360892-4065626d-c8a5-49c3-8b32-5a8a5d30e5e3.png)
-
-![image](https://user-images.githubusercontent.com/15225177/190359703-ee2b2609-fb90-45d1-ab0b-1c54af84831c.png)
+![image](https://user-images.githubusercontent.com/15225177/190361109-a94c1523-ae81-4ae4-ad42-a4ef9e6e4145.png)
 
 ************************************************************************************************************
 
